@@ -74,7 +74,7 @@
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
     
-    [[IQLog sharedInstance] logScreenName:NSStringFromClass([self class])];
+    //[[IQLog sharedInstance] logScreenName:NSStringFromClass([self class])];
 }
 
 - (void)viewWillDisappear:(BOOL)animated {
