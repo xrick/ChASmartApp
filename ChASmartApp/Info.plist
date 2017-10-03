@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>這APP將要存取</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>This app uses Speech recognition to transform your spoken words into text and then analyze the, so watch what you say!.</string>
 </dict>
 </plist>
